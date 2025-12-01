@@ -1,3 +1,5 @@
+vidoadaki sesi çevirir ve çevirilmiş ses olarak kullanıya iletir.
+
 C# WinForms uygulaması, YouTube videolarını indirip seslerini yazıya döküyor ve farklı dillere çevirip kullanıcıya sunuyor. Amaç, ülkeler arası bilgi paylaşımını kolaylaştırmak.
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 Ders çalışırken YouTube’da kendi alanımda(yazılım geliştime+siber güvenlik vb...) yeterli eğitim materyali bulamıyordum. Hindistan, Almanya, Azerbaycan gibi birçok ülkeden eğitim kaynaklarını anlamak istedim, ancak tüm dilleri bilmem mümkün değildi.  
@@ -5,7 +7,7 @@ Ders çalışırken YouTube’da kendi alanımda(yazılım geliştime+siber güv
 Ücretli bir araç almak istemedim, öğrenci olduğum için kendi çözümümü geliştirdim. C# öğrenmişken böyle bir uygulama yapmaya karar verdim ve bu bana çok faydalı oldu.  
 
 Uygulamanın, diğer insanlar için de faydalı olacağını ve ülkeler arası  bilgi alışverişini kolaylaştıracağını düşünüyorum.
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+_________________________________________________________________________________________________________________________________________________________
 
 yapım:
 1. Projeyi klonlayın.
